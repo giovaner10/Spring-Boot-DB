@@ -23,18 +23,20 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
    <li>Leitura e entendimento do diagrama de classes;</li>
    <li>Leitura e entendimento do diagrama de objetos;</li>
   <li> Associações:  <li>
-  <ol><li> Um para muitos / muitos para um;</li>
-  <li> Um para um;</li>
-  <li> Muitos para muitos comum;</li>
-  <li> Muitos para muitos com classe de associação;</li>
-  <li> Bidirecionais / direcionadas.</li></ol>
+  <ol>
+     <li> Um para muitos / muitos para um;</li>
+     <li> Um para um;</li>
+     <li> Muitos para muitos comum;</li>
+     <li> Muitos para muitos com classe de associação;</li>
+     <li> Bidirecionais / direcionadas.</li>
+  </ol>
   <li> Conceito independente / dependente;</li>
   <li> Classe de associação;</li>
    <li>Herança;</li>
    <li>Enumerações; </li>
    <li>Atributos Embedded (ItemPedidoPK); </li>
    <li>Coleções ElementCollection (telefones de um cliente);</li> 
- </ul>
+</ul>
    <br /><br />
 
 
