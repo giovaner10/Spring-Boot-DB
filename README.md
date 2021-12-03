@@ -2,6 +2,14 @@
 
 BackEnd de um aplicativo de entrega de comida (conferir os diagramas na pasta "Diagramas").<br />
 
+API Rest BÁSICA. Os seguintes end points devem ser disponibilizados: 
+End point Dados
+/categorias/{id} Categoria e seus produtos 
+/clientes/{id} Cliente, seus telefones e seus endereços 
+/pedidos/{id} Pedido, seu cliente, seu pagamento, seus itens de 
+pedido, seu endereço de entrega 
+
+
 Projeto representativo que tem como objetivo mostrar na prática como um modelo conceitual (modelo de 
 domínio em nível de análise) pode ser implementado sobre o paradigma orientado a objetos, usando padrões de 
 mercado e boas práticas. <br />
