@@ -22,7 +22,7 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
  Herança;<br />
  Enumerações; <br />
  Atributos Embedded (ItemPedidoPK); <br />
- Coleções ElementCollection (telefones de um cliente); <br />
+ Coleções ElementCollection (telefones de um cliente); <br /><br />
 
 
 Bem como o desenvolvimento em camadas e tratamento de exceções.
