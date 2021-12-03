@@ -2,7 +2,7 @@
 
 BackEnd de um aplicativo de entrega de comida (conferir os diagramas na pasta "Diagramas").<br />
 
-API Rest BÁSICA. Os seguintes end points devem ser disponibilizados: 
+API Rest BÁSICA. Os seguintes end points devem ser disponibilizados: <br />
 End point Dados
 /categorias/{id} Categoria e seus produtos 
 /clientes/{id} Cliente, seus telefones e seus endereços 
