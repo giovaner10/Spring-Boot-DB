@@ -24,7 +24,7 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
    <li>Leitura e entendimento do diagrama de objetos;</li>
   <li> Associações:  <li>
   <ol>
-     <li> Um para muitos / muitos para um;</li>
+     Um para muitos / muitos para um;
      <li> Um para um;</li>
      <li> Muitos para muitos comum;</li>
      <li> Muitos para muitos com classe de associação;</li>
