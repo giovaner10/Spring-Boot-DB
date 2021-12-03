@@ -19,7 +19,7 @@ mercado e boas práticas. <br />
 <p> &ensp;<p />Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática 
 em linguagem orientada a objetos dos seguintes tópicos: <br />
 
- Leitura e entendimento do diagrama de classes;<br />
+<ul> Leitura e entendimento do diagrama de classes;<br />
  Leitura e entendimento do diagrama de objetos;<br />
  Associações:
   <ul><li> Um para muitos / muitos para um;</li>
@@ -32,7 +32,7 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
  Herança;<br />
  Enumerações; <br />
  Atributos Embedded (ItemPedidoPK); <br />
- Coleções ElementCollection (telefones de um cliente); <br /><br />
+ Coleções ElementCollection (telefones de um cliente); </ul><br /><br />
 
 
 Bem como o desenvolvimento em camadas e tratamento de exceções.
