@@ -10,8 +10,8 @@ End point Dados <br /> <br />
 /categorias/{id} Categoria e seus produtos; <br />
 /clientes/{id} Cliente, seus telefones e seus endereços; <br />
 /pedidos/{id} Pedido, seu cliente, seu pagamento, seus itens de 
-pedido, seu endereço de entrega  <br />
-/h2-console , senha: password  <br />
+pedido, seu endereço de entrega;  <br />
+/h2-console , senha: password. <br />
 
 
 ## Sobre o projeto: <br />
