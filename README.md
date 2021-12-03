@@ -11,12 +11,12 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
 
  Leitura e entendimento do diagrama de classes;<br />
  Leitura e entendimento do diagrama de objetos;<br />
- Associações:<br />
-  o Um para muitos / muitos para um;<br />
-  o Um para um;<br />
-  o Muitos para muitos comum;<br />
-  o Muitos para muitos com classe de associação;<br />
-  o Bidirecionais / direcionadas.<br />
+ Associações:
+  <ul><li>o Um para muitos / muitos para um;</li>
+  <li>o Um para um;</li>
+  <li>o Muitos para muitos comum;</li>
+  <li>o Muitos para muitos com classe de associação;</li>
+  <li>o Bidirecionais / direcionadas.</li></ul>
  Conceito independente / dependente;<br />
  Classe de associação;<br />
  Herança;<br />
