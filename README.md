@@ -1,10 +1,10 @@
 # Spring-Boot-DB<br />
 
 ## Manual:
-<p> <p />BackEnd de um aplicativo de entrega de comida (conferir os diagramas na pasta "Diagramas").<br />
+<p>&ensp; <p />BackEnd de um aplicativo de entrega de comida (conferir os diagramas na pasta "Diagramas").<br />
 <p> <p />
 
-<p> <p />API Rest BÁSICA. Os seguintes end points devem ser disponibilizados: <br /> 
+<p> &ensp;<p />API Rest BÁSICA. Os seguintes end points devem ser disponibilizados: <br /> 
 End point Dados <br /> <br />
 /categorias/{id} Categoria e seus produtos; <br />
 /clientes/{id} Cliente, seus telefones e seus endereços; <br />
@@ -12,11 +12,11 @@ End point Dados <br /> <br />
 pedido, seu endereço de entrega 
 
 ## Sobre o projeto: <br />
-<p> <p />Projeto representativo que tem como objetivo mostrar na prática como um modelo conceitual (modelo de 
+<p>&ensp; <p />Projeto representativo que tem como objetivo mostrar na prática como um modelo conceitual (modelo de 
 domínio em nível de análise) pode ser implementado sobre o paradigma orientado a objetos, usando padrões de 
 mercado e boas práticas. <br />
 
-<p> <p />Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática 
+<p> &ensp;<p />Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática 
 em linguagem orientada a objetos dos seguintes tópicos: <br />
 
  Leitura e entendimento do diagrama de classes;<br />
