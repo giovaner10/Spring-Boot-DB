@@ -22,7 +22,7 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
 <ul> 
    <li>Leitura e entendimento do diagrama de classes;</li>
    <li>Leitura e entendimento do diagrama de objetos;</li>
-  <li> Associações:  <li> 
+  <li> Associações:<li> 
 </ul>
   
   <ol>
