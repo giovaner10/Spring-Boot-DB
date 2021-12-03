@@ -4,8 +4,8 @@ BackEnd de um aplicativo de entrega de comida (conferir os diagramas na pasta "D
 
 API Rest BÁSICA. Os seguintes end points devem ser disponibilizados: <br />
 End point Dados
-/categorias/{id} Categoria e seus produtos 
-/clientes/{id} Cliente, seus telefones e seus endereços 
+/categorias/{id} Categoria e seus produtos; <br />
+/clientes/{id} Cliente, seus telefones e seus endereços; <br />
 /pedidos/{id} Pedido, seu cliente, seu pagamento, seus itens de 
 pedido, seu endereço de entrega 
 
