@@ -20,7 +20,7 @@ mercado e boas práticas. <br />
 em linguagem orientada a objetos dos seguintes tópicos: <br />
 
 <ul> 
-   </li>Leitura e entendimento do diagrama de classes;</li>
+   <li>Leitura e entendimento do diagrama de classes;</li>
    <li>Leitura e entendimento do diagrama de objetos;</li>
   <li> Associações:  <li>
   <ol><li> Um para muitos / muitos para um;</li>
@@ -30,7 +30,7 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
   <li> Bidirecionais / direcionadas.</li></ol>
   <li> Conceito independente / dependente;</li>
   <li> Classe de associação;</li>
-   <li>Herança;</li><br />
+   <li>Herança;</li>
    <li>Enumerações; </li>
    <li>Atributos Embedded (ItemPedidoPK); </li>
    <li>Coleções ElementCollection (telefones de um cliente);</li> 
