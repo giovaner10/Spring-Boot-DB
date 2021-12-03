@@ -22,7 +22,7 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
 <ul> 
    <li>Leitura e entendimento do diagrama de classes;</li>
    <li>Leitura e entendimento do diagrama de objetos;</li>
-  <li>Associações:<li></ul>
+  <li>Associações:<li>
   
   <ol>
      <li> Um para muitos / muitos para um;</li>
@@ -32,7 +32,7 @@ em linguagem orientada a objetos dos seguintes tópicos: <br />
      <li> Bidirecionais / direcionadas.</li>
   </ol>
   
-  <ul>
+  
   <li> Conceito independente / dependente;</li>
   <li> Classe de associação;</li>
    <li>Herança;</li>
