@@ -1,6 +1,7 @@
 # Spring-Boot-DB<br />
 
 ## Manual:
+O projeto se encontra em estado funcional, ele usa o BD H2 Data base. basta abrilo como um projeto Maven
 <p>&ensp; <p />BackEnd de um aplicativo de entrega de comida (conferir os diagramas na pasta "Diagramas").<br />
 <p> <p />
 
@@ -9,7 +10,9 @@ End point Dados <br /> <br />
 /categorias/{id} Categoria e seus produtos; <br />
 /clientes/{id} Cliente, seus telefones e seus endereços; <br />
 /pedidos/{id} Pedido, seu cliente, seu pagamento, seus itens de 
-pedido, seu endereço de entrega 
+pedido, seu endereço de entrega  <br />
+/h2-console , senha: password  <br />
+
 
 ## Sobre o projeto: <br />
 <p>&ensp; <p />Projeto representativo que tem como objetivo mostrar na prática como um modelo conceitual (modelo de 
